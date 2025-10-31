@@ -10,7 +10,7 @@
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>333_one_1</SID>
-    <value><![CDATA[bir]]></value>
+    <value><![CDATA[אחד]]></value>
   </string>
   <string translate="1" segmentID="3" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
@@ -22,30 +22,30 @@
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>333_and_2</SID>
-    <value><![CDATA[ve]]></value>
+    <value><![CDATA[ו]]></value>
   </string>
   <string translate="1" segmentID="5" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>333_or_3</SID>
-    <value><![CDATA[veya]]></value>
+    <value><![CDATA[או]]></value>
   </string>
   <string translate="1" segmentID="6" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>333_three_1</SID>
-    <value><![CDATA[üç]]></value>
+    <value><![CDATA[שלוש]]></value>
   </string>
   <string translate="1" segmentID="7" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>333_four_2</SID>
-    <value><![CDATA[dört]]></value>
+    <value><![CDATA[ארבע]]></value>
   </string>
   <string translate="1" segmentID="8" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
     <SID>333_five_3</SID>
-    <value><![CDATA[beş]]></value>
+    <value><![CDATA[חמש]]></value>
   </string>
 </resources>

@@ -30,4 +30,34 @@
     <SID>333_or_3</SID>
     <value><![CDATA[nebo]]></value>
   </string>
+  <string translate="1" segmentID="6" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_three_1</SID>
+    <value><![CDATA[tři]]></value>
+  </string>
+  <string translate="1" segmentID="7" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_four_2</SID>
+    <value><![CDATA[čtyři]]></value>
+  </string>
+  <string translate="1" segmentID="8" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_five_3</SID>
+    <value><![CDATA[pět]]></value>
+  </string>
+  <string translate="1" segmentID="9" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_3010_1</SID>
+    <value><![CDATA[3010]]></value>
+  </string>
+  <string translate="1" segmentID="10" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_HALLOWEE_1</SID>
+    <value><![CDATA[HALLOWEEN]]></value>
+  </string>
 </resources>

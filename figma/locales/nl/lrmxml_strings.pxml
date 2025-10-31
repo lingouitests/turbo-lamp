@@ -30,4 +30,22 @@
     <SID>333_or_3</SID>
     <value><![CDATA[of]]></value>
   </string>
+  <string translate="1" segmentID="6" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_three_1</SID>
+    <value><![CDATA[drie]]></value>
+  </string>
+  <string translate="1" segmentID="7" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_four_2</SID>
+    <value><![CDATA[vier]]></value>
+  </string>
+  <string translate="1" segmentID="8" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_five_3</SID>
+    <value><![CDATA[vijf]]></value>
+  </string>
 </resources>
