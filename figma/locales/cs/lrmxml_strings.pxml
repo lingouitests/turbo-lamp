@@ -60,4 +60,22 @@
     <SID>333_HALLOWEE_1</SID>
     <value><![CDATA[HALLOWEEN]]></value>
   </string>
+  <string translate="1" segmentID="11" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_FINAL_1</SID>
+    <value><![CDATA[FINÁLNÍ]]></value>
+  </string>
+  <string translate="1" segmentID="12" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_3110_1</SID>
+    <value><![CDATA[3110]]></value>
+  </string>
+  <string translate="1" segmentID="13" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_trytwo_1</SID>
+    <value><![CDATA[Zkuste dva]]></value>
+  </string>
 </resources>

@@ -66,4 +66,16 @@
     <SID>333_FINAL_1</SID>
     <value><![CDATA[FINAL]]></value>
   </string>
+  <string translate="1" segmentID="12" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_3110_1</SID>
+    <value><![CDATA[3110]]></value>
+  </string>
+  <string translate="1" segmentID="13" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_trytwo_1</SID>
+    <value><![CDATA[try two]]></value>
+  </string>
 </resources>
