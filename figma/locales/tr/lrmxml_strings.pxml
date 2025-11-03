@@ -78,4 +78,16 @@
     <SID>333_trytwo_1</SID>
     <value><![CDATA[iki dene]]></value>
   </string>
+  <string translate="1" segmentID="14" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_check_1</SID>
+    <value><![CDATA[kontrol]]></value>
+  </string>
+  <string translate="1" segmentID="15" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_check2_1</SID>
+    <value><![CDATA[kontrol2]]></value>
+  </string>
 </resources>
