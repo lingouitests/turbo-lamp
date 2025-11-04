@@ -69,6 +69,11 @@
   "nodeID":"node_id.191:4",
   "lastChanged":1762193828
 },{
+  "key":"333_trigger_1",
+  "value":"trigger",
+  "nodeID":"node_id.203:6",
+  "lastChanged":1762250373
+},{
   "key":"333_three_1",
   "value":"three",
   "nodeID":"node_id.118:11",
