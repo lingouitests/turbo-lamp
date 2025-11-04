@@ -90,4 +90,118 @@
     <SID>333_check2_1</SID>
     <value><![CDATA[check 2]]></value>
   </string>
+  <string translate="1" segmentID="16" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_computer_1</SID>
+    <value><![CDATA[computer]]></value>
+  </string>
+  <string translate="1" segmentID="17" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_tryagain_1</SID>
+    <value><![CDATA[probeer het opnieuw]]></value>
+  </string>
+  <string translate="1" segmentID="18" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_test44Ve_1</SID>
+    <value><![CDATA[test 44 versie]]></value>
+  </string>
+  <string translate="1" segmentID="19" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_check041_1</SID>
+    <value><![CDATA[bekijk 0411]]></value>
+  </string>
+  <string translate="1" segmentID="20" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_finaltry_1</SID>
+    <value><![CDATA[laatste poging 2025]]></value>
+  </string>
+  <string translate="1" segmentID="21" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_sendall1_1</SID>
+    <value><![CDATA[stuur ze alle 123]]></value>
+  </string>
+  <string translate="1" segmentID="22" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_question_1</SID>
+    <value><![CDATA[vraag]]></value>
+  </string>
+  <string translate="1" segmentID="23" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_trigger_1</SID>
+    <value><![CDATA[op gang brengen]]></value>
+  </string>
+  <string translate="1" segmentID="24" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_111_1</SID>
+    <value><![CDATA[111]]></value>
+  </string>
+  <string translate="1" segmentID="25" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_222_1</SID>
+    <value><![CDATA[222]]></value>
+  </string>
+  <string translate="1" segmentID="26" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_333_1</SID>
+    <value><![CDATA[333]]></value>
+  </string>
+  <string translate="1" segmentID="27" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_bear_1</SID>
+    <value><![CDATA[verdragen]]></value>
+  </string>
+  <string translate="1" segmentID="28" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_cat_1</SID>
+    <value><![CDATA[kat]]></value>
+  </string>
+  <string translate="1" segmentID="29" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_dog_1</SID>
+    <value><![CDATA[hond]]></value>
+  </string>
+  <string translate="1" segmentID="30" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_mouse_1</SID>
+    <value><![CDATA[muis]]></value>
+  </string>
+  <string translate="1" segmentID="31" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_alpha_1</SID>
+    <value><![CDATA[alfa]]></value>
+  </string>
+  <string translate="1" segmentID="32" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_beta_1</SID>
+    <value><![CDATA[bèta]]></value>
+  </string>
+  <string translate="1" segmentID="33" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_gamma_1</SID>
+    <value><![CDATA[gamma]]></value>
+  </string>
+  <string translate="1" segmentID="34" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>333_teta_1</SID>
+    <value><![CDATA[teta]]></value>
+  </string>
 </resources>
