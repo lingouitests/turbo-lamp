@@ -32,5 +32,6 @@
     "node_id.206:14": "alpha",
     "node_id.206:15": "beta",
     "node_id.207:17": "teta",
-    "node_id.206:16": "newgamma"
+    "node_id.206:16": "newgamma",
+    "node_id.228:2": "lrmvalue"
 }
